@@ -3,7 +3,7 @@ Hi there! 🙋🏻‍♀️
 
 Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
 
-Feel free to chat with me on [LinkedIn](linkedin.com/in/arjun-rehal-2bbaa9251) about my projects!
+Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/arjun-rehal-2bbaa9251/overlay/contact-info/) about my projects!
 
 # 📚 Table of Contents
 [SQL](#sql)
@@ -26,7 +26,7 @@ Project Name | Description | SQL Functions
 🥑[Foodie-Fi](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%233%20-%20Foodie-Fi) |  | Advanced SQL
 🏦[Data Bank](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%234%20-%20Data%20Bank) |  | Advanced SQL
 🌽[Data Mart](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%235%20-%20Data%20Mart)  |  | Advanced SQL
-🦠[Covid-19 and the Impact on Malaysia Stock Market](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%236:%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market) |I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
+🦠[Covid-19 and the Impact on Malaysia Stock Market](https://github.com/rehalarjun/SQL-Projects/tree/main/Case%20Study%20%236_%20Covid-19%20and%20impact%20on%20Malaysia%20Stock%20Market)) |I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median)
 
 # Python
 Skills: Data cleaning, wrangling, visualisation, analysis Libraries: pandas, numpy, matplotlib, seaborn
